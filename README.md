@@ -1,2 +1,7 @@
-# Siteweb
-2019 - 2026
+Primeiro codigo feito
+Chatbot
+
+Pizzaria 🍕​
+Apenas c++
+-------------
+Uso academico - Lucas da Silva Sena​
